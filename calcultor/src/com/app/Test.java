@@ -14,6 +14,9 @@ public class Test {
 	public void multiplication(){
 		System.out.println("this is multiplication method");
 	}
+	public void div(){
+		System.out.println("this is div method");
+	}
 	
 
 }
