@@ -11,5 +11,9 @@ public class Test {
 	{
 		System.out.println("this is sub method");
 	}
+	public void multiplication(){
+		System.out.println("this is multiplication method");
+	}
+	
 
 }
